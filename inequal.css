@@ -135,3 +135,15 @@ h5{
     margin-right: 0;
 
 }
+@media only screen and(max-width:600px){
+    #container{
+        height: 92%;
+    }
+    header{
+        width: 600px;
+    }
+
+    header>h1{
+        text-align: center;
+    }
+}
